@@ -1,4 +1,4 @@
-﻿namespace WinFormsApp3
+﻿namespace MyBusinessCard
 {
     partial class Form2
     {

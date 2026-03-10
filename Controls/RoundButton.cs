@@ -4,7 +4,7 @@ using System.Drawing;
 using System.Drawing.Drawing2D;
 using System.Windows.Forms;
 
-namespace WinFormsApp3.Controls
+namespace MyBusinessCard.Controls
 {
     public class RoundButton : Button
     {

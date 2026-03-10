@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace WinFormsApp3.Properties {
+namespace MyBusinessCard.Properties {
     using System;
     
     
@@ -39,7 +39,7 @@ namespace WinFormsApp3.Properties {
         internal static global::System.Resources.ResourceManager ResourceManager {
             get {
                 if (object.ReferenceEquals(resourceMan, null)) {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("WinFormsApp3.Properties.Resources", typeof(Resources).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("MyBusinessCard.Properties.Resources", typeof(Resources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;
@@ -66,6 +66,16 @@ namespace WinFormsApp3.Properties {
         internal static System.Drawing.Bitmap 면상 {
             get {
                 object obj = ResourceManager.GetObject("면상", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Drawing.Bitmap 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        internal static System.Drawing.Bitmap 슬픈면상 {
+            get {
+                object obj = ResourceManager.GetObject("슬픈면상", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

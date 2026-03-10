@@ -6,7 +6,7 @@ using System.Drawing;
 using System.Text;
 using System.Windows.Forms;
 
-namespace WinFormsApp3
+namespace MyBusinessCard
 {
     public partial class Form2 : Form
     {
